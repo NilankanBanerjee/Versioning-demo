@@ -6,4 +6,11 @@ c = a+b
 
 print(c)
 
+
+
+print(c+b)
+
+
+
 print(c+a)
+
